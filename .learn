@@ -6,3 +6,5 @@ tags:
 languages:
   - ruby
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/oo-basics-with-class-constants.git
